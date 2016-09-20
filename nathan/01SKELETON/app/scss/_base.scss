@@ -1,0 +1,22 @@
+body {
+    background-color: $black;
+    font-family: $arial-font-stack;
+}
+
+h1 {
+    color: $white;
+}
+
+img {
+    width: 33.33333%;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.pink {
+    color: $hotpink;
+}
+
+.images {
+    text-align: center;
+}

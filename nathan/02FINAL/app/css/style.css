@@ -1,0 +1,21 @@
+body {
+  background-color: #000;
+  font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+  text-align: center; }
+
+h1 {
+  color: #FFF;
+  font-size: 72px;
+  margin: 20px 0; }
+
+img {
+  width: 20%;
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top; }
+
+.pink {
+  color: #FF69B4; }
+
+.images {
+  text-align: center; }
